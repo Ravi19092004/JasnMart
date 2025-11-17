@@ -1,12 +1,6 @@
 # 🛒 JasnMart - E-Commerce Store
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-ISC-green.svg)
-![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)
-![React](https://img.shields.io/badge/React-18+-blue.svg)
-![MongoDB](https://img.shields.io/badge/MongoDB-8+-green.svg)
-![Stripe](https://img.shields.io/badge/Stripe-Payment-blue.svg)
-
+![Home Page](./frontend/public/assets/HomePage.png)
 
 ## 📋 Description
 
@@ -123,7 +117,7 @@ Before running this application, make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/jasn-mart.git
+   git clone https://github.com/Ravi19092004/jasn-mart.git
    cd jasn-mart
    ```
 
@@ -208,18 +202,13 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+**Ravishankar Gharabidi**
+- GitHub: [@Ravi19092004](https://github.com/Ravi19092004)
+- LinkedIn: [ravishankar-gharabidi-35bb2b262](https://linkedin.com/in/ravishankar-gharabidi-35bb2b262)
 
 ---
-
 ⭐ If you found this project helpful, please give it a star!
 
 ---
