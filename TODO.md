@@ -1,0 +1,4 @@
+- [x] Update STRIPE_SECRET_KEY in .env file using terminal command
+- [x] Update publishable key in frontend/src/components/OrderSummary.jsx
+- [ ] Restart backend server to load new .env variables
+- [ ] Test checkout process to verify fix
