@@ -7,7 +7,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-8+-green.svg)
 ![Stripe](https://img.shields.io/badge/Stripe-Payment-blue.svg)
 
-[Video Tutorial on YouTube](https://youtu.be/sX57TLIPNx8)
 
 ## 📋 Description
 
